@@ -3,6 +3,6 @@ package com.home.gittest;
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		System.out.println("Hello Sumitra");
+		System.out.println("Hello Rabi");
 	}
 }
